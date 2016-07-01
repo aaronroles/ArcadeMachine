@@ -4,15 +4,16 @@ using System.Collections;
 public class CameraFollow : MonoBehaviour {
 	
 	public GameObject target;
-	private Transform _t;
+	private Transform playerPos;
 	
 	// Use this for initialization
 	void Start () {
-		_t = target.transform;
+		playerPos = target.transform;
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		transform.position = new Vector3 (_t.position.x, _t.position.y, transform.position.z);
+		// Changed from following the player's y position to staying at the camera's y position
+		transform.position = new Vector3 (playerPos.position.x, transform.position.y, transform.position.z);
 	}
 }

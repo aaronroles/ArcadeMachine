@@ -15,17 +15,17 @@ public class Stan : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		if (Input.GetKey ("right")) {
+		if (Input.GetKey (KeyCode.D)) {
 			rigidbody2D.velocity = new Vector2(speed, rigidbody2D.velocity.y);
 			transform.localScale = new Vector3(1,1,1);
 			TextHandler.text = "Moving right";
 		} 
-		else if (Input.GetKey ("left")) {
+		else if (Input.GetKey (KeyCode.A)) {
 			rigidbody2D.velocity = new Vector2(-speed, rigidbody2D.velocity.y);
 			transform.localScale = new Vector3(-1,1,1);
 			TextHandler.text = "Moving left";
 		}
-		if (Input.GetKeyDown ("up") && grounded) {
+		if (Input.GetKeyDown (KeyCode.W) && grounded) {
 			rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.y, jump);
 			TextHandler.text = "Jumping";
 		} 
@@ -37,7 +37,8 @@ public class Stan : MonoBehaviour {
 			TextHandler.text = "Grounded";
 		} 
 		else if (other.gameObject.tag == "Enemy") {
-			TextHandler.text = "You should be dead";
+			TextHandler.text = "RELOADING";
+			Application.LoadLevel(Application.loadedLevel);
 		} 
 		else if (other.gameObject.tag == "Respawn") {
 			TextHandler.text = "RELOADING";
@@ -49,15 +50,21 @@ public class Stan : MonoBehaviour {
 		if (other.gameObject.tag == "Ground" | other.gameObject.tag == "Obstacle") {
 			grounded = true; 
 		}
-		else if (other.gameObject.tag == "Enemy") {
-			TextHandler.text = "You should be dead";
-		}
 	}
 
 	void OnCollisionExit2D(Collision2D other){
 		if (other.gameObject.tag == "Ground" | other.gameObject.tag == "Obstacle") {
 			grounded = false;
 		}
+	}
+
+	void OnTriggerEnter2D(Collider2D other){
+		if (other.gameObject.tag == "HitBox") {
+			TextHandler.text = "Enemy killed";
+			PointsText.pts += 10;
+			Destroy(other.transform.parent.gameObject);
+		}
+
 	}
 }
 
