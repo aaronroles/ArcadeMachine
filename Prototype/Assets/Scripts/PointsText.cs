@@ -15,10 +15,10 @@ public class PointsText : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		ptsText.text = pts.ToString() + "/190 points";
+		ptsText.text = pts.ToString() + " points";
 
-		if (pts == 190) {
-			TextHandler.text = "Level complete";
-		}
+		//if (pts == 190) {
+		//	TextHandler.text = "Level complete";
+		//}
 	}
 }
