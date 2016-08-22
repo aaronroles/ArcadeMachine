@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: e664a4fc9baa7eb4ca053110ce07e047
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stan_deathCycle (1)_0
+    21300002: Stan_deathCycle (1)_1
+    21300004: Stan_deathCycle (1)_2
+    21300006: Stan_deathCycle (1)_3
+    21300008: Stan_deathCycle (1)_4
+    21300010: Stan_deathCycle (1)_5
+    21300012: Stan_deathCycle (1)_6
+    21300014: Stan_deathCycle (1)_7
+    21300016: Stan_deathCycle (1)_8
+    21300018: Stan_deathCycle (1)_9
+    21300020: Stan_deathCycle (1)_10
+    21300022: Stan_deathCycle (1)_11
+    21300024: Stan_deathCycle (1)_12
+    21300026: Stan_deathCycle (1)_13
+    21300028: Stan_deathCycle (1)_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Stan_deathCycle (1)_0
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4140
+        width: 180
+        height: 340
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 4140
+        width: 180
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_2
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 4140
+        width: 180
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_3
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 4140
+        width: 220
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2860
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2860
+        width: 280
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_6
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 2860
+        width: 360
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_7
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 2860
+        width: 360
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1580
+        width: 360
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1580
+        width: 360
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_10
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1580
+        width: 360
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_11
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 1580
+        width: 360
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 300
+        width: 360
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 300
+        width: 360
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stan_deathCycle (1)_14
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 300
+        width: 360
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

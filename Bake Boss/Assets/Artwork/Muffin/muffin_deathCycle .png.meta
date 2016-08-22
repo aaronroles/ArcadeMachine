@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 0e0dbd2c4df827c47b4d678327f0ec7f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: muffin_deathCycle _0
+    21300002: muffin_deathCycle _1
+    21300004: muffin_deathCycle _2
+    21300006: muffin_deathCycle _3
+    21300008: muffin_deathCycle _4
+    21300010: muffin_deathCycle _5
+    21300012: muffin_deathCycle _6
+    21300014: muffin_deathCycle _7
+    21300016: muffin_deathCycle _8
+    21300018: muffin_deathCycle _9
+    21300020: muffin_deathCycle _10
+    21300022: muffin_deathCycle _11
+    21300024: muffin_deathCycle _12
+    21300026: muffin_deathCycle _13
+    21300028: muffin_deathCycle _14
+    21300030: muffin_deathCycle _17
+    21300032: muffin_deathCycle _18
+    21300034: muffin_deathCycle _19
+    21300036: muffin_deathCycle _20
+    21300038: muffin_deathCycle _24
+    21300040: muffin_deathCycle _25
+    21300042: muffin_deathCycle _26
+    21300044: muffin_deathCycle _27
+    21300046: muffin_deathCycle _28
+    21300048: muffin_deathCycle _16
+    21300050: muffin_deathCycle _21
+    21300052: muffin_deathCycle _15
+    21300054: muffin_deathCycle _22
+    21300056: muffin_deathCycle _23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: muffin_deathCycle _0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3340
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _1
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 3340
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3340
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _3
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 3340
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _4
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 3340
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2700
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2700
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _7
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2700
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _8
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2700
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _9
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 2700
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2060
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2060
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2060
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _13
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2060
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _14
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 2060
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1420
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _16
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1420
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _17
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1420
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _18
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1420
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _19
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 1420
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 810
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _21
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 820
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _22
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 830
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _23
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 840
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_deathCycle _24
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 860
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

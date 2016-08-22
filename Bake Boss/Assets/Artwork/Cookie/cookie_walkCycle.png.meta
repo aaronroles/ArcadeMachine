@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 9a52cedafdf821e4abf57a697dce5c21
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cookie_walkCycle_0
+    21300002: cookie_walkCycle_1
+    21300004: cookie_walkCycle_2
+    21300006: cookie_walkCycle_3
+    21300008: cookie_walkCycle_4
+    21300010: cookie_walkCycle_5
+    21300012: cookie_walkCycle_6
+    21300014: cookie_walkCycle_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cookie_walkCycle_0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1490
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cookie_walkCycle_1
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1490
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cookie_walkCycle_2
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1490
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cookie_walkCycle_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 850
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cookie_walkCycle_4
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 850
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cookie_walkCycle_5
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 850
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cookie_walkCycle_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 210
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cookie_walkCycle_7
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 210
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

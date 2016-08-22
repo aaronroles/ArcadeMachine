@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 6443e3ad10e0fca4293c73087e5146f5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: muffin_explosionCycle_0
+    21300002: muffin_explosionCycle_1
+    21300004: muffin_explosionCycle_2
+    21300006: muffin_explosionCycle_3
+    21300008: muffin_explosionCycle_4
+    21300010: muffin_explosionCycle_5
+    21300012: muffin_explosionCycle_6
+    21300014: muffin_explosionCycle_7
+    21300016: muffin_explosionCycle_8
+    21300018: muffin_explosionCycle_9
+    21300020: muffin_explosionCycle_10
+    21300022: muffin_explosionCycle_11
+    21300024: muffin_explosionCycle_12
+    21300026: muffin_explosionCycle_13
+    21300028: muffin_explosionCycle_14
+    21300030: muffin_explosionCycle_20
+    21300032: muffin_explosionCycle_15
+    21300034: muffin_explosionCycle_16
+    21300036: muffin_explosionCycle_17
+    21300038: muffin_explosionCycle_18
+    21300040: muffin_explosionCycle_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: muffin_explosionCycle_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2700
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_2
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2700
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_3
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2700
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_4
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 2700
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_5
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 2700
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2060
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_7
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2060
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_8
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2060
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_9
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2060
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_10
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 2060
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1419
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_12
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1420
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_13
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1420
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_14
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1420
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_15
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 1420
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 780
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_17
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 760
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_18
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 760
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_19
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 760
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muffin_explosionCycle_20
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 740
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

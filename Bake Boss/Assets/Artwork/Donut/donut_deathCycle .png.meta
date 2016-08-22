@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 94609dd2e2363b14691fbbda2052ef47
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: donut_deathCycle _0
+    21300002: donut_deathCycle _1
+    21300004: donut_deathCycle _2
+    21300006: donut_deathCycle _3
+    21300008: donut_deathCycle _4
+    21300010: donut_deathCycle _5
+    21300012: donut_deathCycle _6
+    21300014: donut_deathCycle _7
+    21300016: donut_deathCycle _8
+    21300018: donut_deathCycle _9
+    21300020: donut_deathCycle _10
+    21300022: donut_deathCycle _11
+    21300024: donut_deathCycle _12
+    21300026: donut_deathCycle _13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: donut_deathCycle _0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2090
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donut_deathCycle _1
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2089
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donut_deathCycle _2
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2090
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donut_deathCycle _3
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 2090
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donut_deathCycle _4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1450
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donut_deathCycle _5
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1449
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donut_deathCycle _6
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1450
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donut_deathCycle _7
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1450
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donut_deathCycle _8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 810
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donut_deathCycle _9
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 810
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donut_deathCycle _10
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 810
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donut_deathCycle _11
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 810
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donut_deathCycle _12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 170
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donut_deathCycle _13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 170
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

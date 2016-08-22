@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 4a97ad7a4292eb84dbbe92fe027026a4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eclair_deathCycle _0
+    21300002: eclair_deathCycle _1
+    21300004: eclair_deathCycle _2
+    21300006: eclair_deathCycle _3
+    21300008: eclair_deathCycle _4
+    21300010: eclair_deathCycle _5
+    21300012: eclair_deathCycle _6
+    21300014: eclair_deathCycle _7
+    21300016: eclair_deathCycle _8
+    21300018: eclair_deathCycle _9
+    21300020: eclair_deathCycle _10
+    21300022: eclair_deathCycle _11
+    21300024: eclair_deathCycle _12
+    21300026: 0_blank
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eclair_deathCycle _0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2010
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eclair_deathCycle _1
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2010
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eclair_deathCycle _2
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 2010
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eclair_deathCycle _3
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 2010
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eclair_deathCycle _4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1370
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eclair_deathCycle _5
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1370
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eclair_deathCycle _6
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1370
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eclair_deathCycle _7
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1370
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eclair_deathCycle _8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 730
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eclair_deathCycle _9
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 730
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eclair_deathCycle _10
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 730
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eclair_deathCycle _11
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 730
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 0_blank
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 141
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

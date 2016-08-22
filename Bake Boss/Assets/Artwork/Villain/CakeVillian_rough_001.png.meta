@@ -1,0 +1,80 @@
+fileFormatVersion: 2
+guid: 2021af149c9b4514f92979187e9b9d74
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CakeVillian_rough_001_0
+    21300002: CakeVillian_rough_001_1
+    21300004: CakeVillian_rough_001_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CakeVillian_rough_001_0
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 420
+        width: 700
+        height: 460
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CakeVillian_rough_001_1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 827
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CakeVillian_rough_001_2
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 616
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
