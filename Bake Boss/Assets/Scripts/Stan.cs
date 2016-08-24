@@ -27,6 +27,8 @@ public class Stan : MonoBehaviour {
 	Vector2 deathPos;
 
 	public GameObject continueBtn;
+	public GameObject countdownText;
+
 	public AudioClip jumpSFX;
 	public AudioClip doubleJumpSFX;
 	public AudioClip takeDamageSFX;
@@ -121,7 +123,8 @@ public class Stan : MonoBehaviour {
 		} 
 
 		else if (dead) {
-			TextHandler.text = "Countdown: " + Mathf.Round((countdown*10)/10).ToString();
+			TextHandler.text = Mathf.Round((countdown*10)/10).ToString();
+			countdownText.SetActive(true);
 			continueBtn.SetActive(true);
 			animator.SetInteger("AnimState", 5);
 			box.size = bounds;
@@ -219,6 +222,11 @@ public class Stan : MonoBehaviour {
 		}
 
 		if (other.gameObject.tag == "BossHitBox") {
+			rigidbody2D.velocity = new Vector2 (0, bounce*(Random.Range(1,2)));
+			other.gameObject.transform.parent.GetComponent<BakeBoss>().Damage(1);
+		}
+
+		if (other.gameObject.tag == "MaxHealth") {
 			rigidbody2D.velocity = new Vector2 (0, bounce*(Random.Range(1,2)));
 			other.gameObject.transform.parent.GetComponent<BakeBoss>().Damage(1);
 		}

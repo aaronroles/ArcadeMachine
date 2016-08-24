@@ -13,21 +13,21 @@ public class PointsText : MonoBehaviour {
 		ptsText = GetComponent<Text> ();
 		pts = 0;
 
-		//if(PlayerPrefs.HasKey("Score")){
-		//	currentScore = PlayerPrefs.GetInt("Score");
-		//}
-		//else{
-		//	// Otherwise, no high score
-		//	PlayerPrefs.SetInt("Score", 0);
-		//}
+		if(PlayerPrefs.HasKey("Score")){
+			currentScore = PlayerPrefs.GetInt("HighScore");
+		}
+		else{
+			//Otherwise, no high score
+			PlayerPrefs.SetInt("HighScore", 0);
+		}
 
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		ptsText.text = pts.ToString() + " points";
-		//currentScore = pts;
-		//PlayerPrefs.SetInt("Score", pts);
+		ptsText.text = "SCORE:" + pts.ToString();
+		currentScore = pts;
+		PlayerPrefs.SetInt("HighScore", currentScore);
 
 		//if (pts == 190) {
 		//	TextHandler.text = "Level complete";

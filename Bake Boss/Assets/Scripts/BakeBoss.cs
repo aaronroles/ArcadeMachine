@@ -48,7 +48,7 @@ public class BakeBoss : MonoBehaviour {
 			gameObject.collider2D.enabled = false;
 			speed = 10;
 			Destroy(gameObject, 3);
-			TextHandler.text = "YOU BEAT BOSS";
+			//TextHandler.text = "YOU BEAT BOSS";
 			PointsText.pts += 25;
 		}
 	}

@@ -14,7 +14,7 @@ public class Collectable : MonoBehaviour {
 			Destroy(gameObject);
 			collectCount++;
 			PointsText.pts += 25;
-			TextHandler.text = "Collected thing " + collectCount;
+			//TextHandler.text = "Collected thing " + collectCount;
 		}
 	}
 }

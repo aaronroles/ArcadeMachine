@@ -6,6 +6,7 @@ public class TextHandler : MonoBehaviour {
 
 	public static string text;
 	Text onScreenText;
+	int currentHighscore;
 
 	// Use this for initialization
 	void Start () {

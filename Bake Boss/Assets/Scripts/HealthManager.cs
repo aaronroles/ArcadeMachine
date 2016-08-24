@@ -19,6 +19,12 @@ public class HealthManager : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
+		if (health == 3) {
+			life1.SetActive(true);
+			life2.SetActive(true);
+			life3.SetActive(true);
+		}
+
 		if (health == 2) {
 			life1.SetActive(false);
 			life2.SetActive(true);

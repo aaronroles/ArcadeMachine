@@ -4,7 +4,8 @@ using System.Collections;
 public class NextLevel : MonoBehaviour {
 
 	public string levelToLoad;
-	public GameObject scoreCanvas;
+	public GameObject ptsText;
+	public GameObject popUpText;
 
 	float countdown = 3f;
 
@@ -23,10 +24,11 @@ public class NextLevel : MonoBehaviour {
 	void OnCollisionEnter2D(Collision2D player){
 
 		if (player.gameObject.tag == "Player") {
-			TextHandler.text = "Loading level: " + levelToLoad;
+			//TextHandler.text = "Loading level: " + levelToLoad;
 			readyToLoadLevel = true;
 			Physics2D.IgnoreCollision(gameObject.collider2D, player.collider);
-			scoreCanvas.SetActive(true);
+			popUpText.SetActive(true);
+			ptsText.SetActive(false);
 		}
 	}
 
