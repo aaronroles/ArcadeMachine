@@ -227,8 +227,7 @@ public class Stan : MonoBehaviour {
 		}
 
 		if (other.gameObject.tag == "MaxHealth") {
-			rigidbody2D.velocity = new Vector2 (0, bounce*(Random.Range(1,2)));
-			other.gameObject.transform.parent.GetComponent<BakeBoss>().Damage(1);
+			HealthManager.health = 3;
 		}
 
 	}

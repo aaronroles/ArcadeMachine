@@ -25,7 +25,7 @@ public class PopUpText : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		currentScore = PointsText.pts;
-		popUpText.text = "TOTAL SCORE: " + currentScore.ToString();
+		popUpText.text = currentScore.ToString();
 
 		if (currentScore > currentHighscore) {
 			// The current high score is now score

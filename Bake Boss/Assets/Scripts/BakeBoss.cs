@@ -5,6 +5,7 @@ public class BakeBoss : MonoBehaviour {
 
 	Animator anim;
 	public Transform[] points;
+	public GameObject popUp;
 	float timeToWait;
 	float timer;
 	float speed;
@@ -48,7 +49,7 @@ public class BakeBoss : MonoBehaviour {
 			gameObject.collider2D.enabled = false;
 			speed = 10;
 			Destroy(gameObject, 3);
-			//TextHandler.text = "YOU BEAT BOSS";
+			popUp.SetActive(true);
 			PointsText.pts += 25;
 		}
 	}
