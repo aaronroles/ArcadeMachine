@@ -16,5 +16,9 @@ public class TextHandler : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		onScreenText.text = text;
+
+		if (Input.GetKeyDown (KeyCode.Space)) {
+			Application.LoadLevel(Application.loadedLevel);
+		}
 	}
 }
